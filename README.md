@@ -3,4 +3,4 @@
 ### Opening position
 
 ### Engineering
-- Senior Front End engineer - Hood Core https://github.com/neighborhood-protocol/neighborhood-hiring/issues/1
+- Senior Front End engineer - Neighborhood https://github.com/neighborhood-protocol/neighborhood-hiring/issues/1
